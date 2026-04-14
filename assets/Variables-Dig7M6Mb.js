@@ -1,1 +1,0 @@
-var e={appName:`FOL System`,appDesc:`FOL`,appVer:`2.0.0`,baseEnd:`https://apijamer.findingoillosses.com/`,otpEnd:`https://apijamer.findingoillosses.com/`,headerSet:{Authorization:`Bearer ${localStorage.getItem(`authToken`)}`}};export{e as t};
